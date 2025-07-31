@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Environment & secrets
+.env
+firebase-admin-key.json
+
+# Logs & misc
+*.log
+.DS_Store
+
+# Build folders (if any)
+dist/
+build/
